@@ -1,0 +1,2 @@
+'*.cptx' filter=lfs diff=lfs merge=lfs -text
+*.cptx filter=lfs diff=lfs merge=lfs -text

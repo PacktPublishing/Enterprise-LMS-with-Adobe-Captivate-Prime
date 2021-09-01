@@ -1,0 +1,6 @@
+Employee name,Employee eMail,Employee ID,Department,Job Title,Location,Manager email
+Damien Bruyndonckx,damien@dbr-training.eu,ADMIN,ADMIN,CEO,Thuin,
+Manager 01,manager01@dbr-training.eu,M453379,Marketing,Marketing Manager,San Jose,damien@dbr-training.eu
+Learner 01,learner01@dbr-training.eu,L8734,Marketing,Marketing Specialist,San Jose,manager01@dbr-training.eu
+Learner 02,learner02@dbr-training.eu,L547896,Marketing,Marketing Specialist,San Jose,manager01@dbr-training.eu
+Instructor 01,instructor01@dbr-training.eu,I596321,Learning & Development,Senior Trainer,New York,damien@dbr-training.eu

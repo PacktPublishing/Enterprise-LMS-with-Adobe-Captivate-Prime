@@ -1,0 +1,6 @@
+Employee name,Employee eMail,Employee ID,Department,Job Title,Location,Manager email
+<YOUR NAME HERE>,<YOUR EMAIL HERE>,ADMIN,ADMIN,CEO,<YOUR CITY HERE>,
+Manager 01,<ADD EMAIL HERE>,M453379,Marketing,Marketing Manager,San Jose,<YOUR EMAIL HERE>
+Learner 01,<ADD EMAIL HERE>,L8734,Marketing,Marketing Specialist,San Jose,<MANAGER 01 EMAIL HERE>
+Learner 02,<ADD EMAIL HERE>,L547896,Marketing,Marketing Specialist,San Jose,<MANAGER 01 EMAIL HERE>
+Instructor 01,<ADD EMAIL HERE>,I596321,Learning & Development,Senior Trainer,New York,<YOUR EMAIL HERE>
